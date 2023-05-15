@@ -4,5 +4,6 @@ Analyzing data on Tehran municipality (شهرداری تهران)
 
 Dataset is taken from: https://www.kaggle.com/datasets/melaneemelanee/tehran-municipality
 
+[Apriori algorithm](https://blog.faradars.org/association-rule-mining-and-apriori-algorithm-using-r/)
 
 I will work on it soon...
